@@ -19,7 +19,7 @@ Here are a few projects I've worked on:
 ### [manhwaread-downloader](https://github.com/mostlikelyadev/manhwaread-downloader)
 **A simple, easy to use working downloader for manhwaread.com**
 
-### [manhwaread-downloader](https://github.com/mostlikelyadev/images-to-pdf)
+### [images-to-pdf](https://github.com/mostlikelyadev/images-to-pdf)
 **Easily convert your image collections into well-formatted PDFs**
 
 ---
