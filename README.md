@@ -1,13 +1,13 @@
 # 👋 Hi, I'm "mostlikelyadev"
 
-I'm a Python developer building automation tools and backend apps.
+I'm a Python and RUST developer building automation tools and backend apps.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, Bash
-- **Web Frameworks:** FastAPI, mrhttp
+- **Languages:** Python, SQL, Bash, RUST
+- **Web Frameworks:** FastAPI, mrhttp, Pure-RUST
 - **Scrapping**
 
 ---
